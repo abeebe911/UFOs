@@ -27,7 +27,7 @@ The purpose of this analysis was to create a table to organize UFO data that is 
 
 # Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
-In the following image, you can see our fully functional table with our filter search ability built-in. This is a lot of information with multiple dates, locations, and comments to go through? ![full_table.png](static/images/full_table.png)
+In the following image, you can see our fully functional table with our filter search ability built-in. There is a lot of information with multiple dates, locations, and comments to go through. ![full_table.png](static/images/full_table.png)
 
 What if you just wanted UFO sightings for 1/13/2010? Then you would fill out that date in the "Enter Date" filter and press "Enter". That would show you only the UFO sightings that occurred on 1/13/2010, as you can see below. ![1.13.png](static/images/1.13.png)
 
