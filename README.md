@@ -15,11 +15,11 @@ Or what if you just wanted UFO sightings that occured in Fort Worth, TX? You wou
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
-<u> Drawback of this design </u>
+<u>Drawback of this design</u>
 
 The big design flaw for me is that there is no actual search button. While I naturally just press "Return" on my keyboard when I'm done filling out a search bar,   the page felt off without a physical search button. 
   
-Two recommendations for further development
+<u>Two recommendations for further development</u>
 
 1. While there is a lot of information present in data.js, I know there is a lot more information regarding UFO sightings out there. My first recommendation would be to identify and add more UFO sightings to the data sheet. 
   
