@@ -1,5 +1,5 @@
 # UFO Sightings
-![nasa.png](static/images/nasa.png)
+![nasa.jpg](static/images/nasa.jpg)
 
 ## Overview of Project: Explain the purpose of this analysis.
 The purpose of this analysis was to create a table to organize UFO data that is stored as a JavaScript array, which we then gave the ability to filter data based on certiani criteria. We used JavaScript as our primary coding language to create filters and make our table fully dynamic. This allows for easy user input. We also placed our table into a user-friendly HTML file for easy viewing. We wanted an easy-to-use and good-looking table design to make reading and analyzing the information present in our table a breeze. 
